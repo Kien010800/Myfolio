@@ -393,7 +393,7 @@ nav {
   .header__image {
     grid-area: 1/2/2/3;
     position: relative;
-    height: 20%;
+    height: 50%;
 
   }
 
