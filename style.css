@@ -331,7 +331,7 @@ nav {
   text-align: center;
 }
 
-@media (width > 740px) {
+@media (width > 540px) {
   .header__content h1 {
     font-size: 4.75rem;
   }
@@ -393,7 +393,7 @@ nav {
   .header__image {
     grid-area: 1/2/2/3;
     position: relative;
-    height: 50%;
+    height: 80%;
 
   }
 
