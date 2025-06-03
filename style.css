@@ -336,8 +336,13 @@ nav {
     font-size: 4.75rem;
   }
 .about__image img {
-  max-width: 200px;
-  margin-inline: center;
+  max-width: 300px;
+  margin-inline:center;
+}
+  .project-card img {
+  width: 100%;
+  height: 100px;
+  object-fit: none;
 }
 
   .input__row {
