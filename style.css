@@ -213,13 +213,13 @@ nav {
 .project-gallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 60px;
-  justify-content: space-between;
+  gap: 20px;
+  justify-content: center;
 
 }
 
 .project-card {
-  width: 290px;
+  width: 300px;
   background: #fff;
   border: 1px solid #ddd;
   overflow: hidden;
