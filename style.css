@@ -335,10 +335,6 @@ nav {
   .header__content h1 {
     font-size: 2rem;
   }
-  .about__image img {
-  max-width: 200px;
-  margin-inline: auto;
-}
   
 
   .input__row {
