@@ -333,10 +333,10 @@ nav {
 
 @media (width > 140px) {
   .header__content h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
   .about__image img {
-  max-width: 300px;
+  max-width: 200px;
   margin-inline: auto;
 }
   
